@@ -31,25 +31,25 @@ I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, supervised 
 First-author papers are marked with an asterisk.
 
 * **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, arXiv)
-  <br>\*\*Junteng Liu\*\*, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
+  <br><strong>Junteng Liu</strong>, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
   <br>Code available on GitHub.
 
 * **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, arXiv)
-  <br>\*\*Junteng Liu\*\*, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
+  <br><strong>Junteng Liu</strong>, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
   <br>Code available on GitHub (Vision4Chart).
 
 * **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024)
-  <br>\*\*Junteng Liu\*\*, Shiqi Chen, Yu Cheng, Junxian He
+  <br><strong>Junteng Liu</strong>, Shiqi Chen, Yu Cheng, Junxian He
   <br>Code available on GitHub (Universal_Truthfulness_Hyperplane).
 
 - **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024)
-  <br>Shiqi Chen, Miao Xiong, \*\*Junteng Liu\*\*, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
+  <br>Shiqi Chen, Miao Xiong, <strong>Junteng Liu</strong>, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
 
 - **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023)
-  <br>Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, \*\*Junteng Liu\*\*, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He
+  <br>Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, <strong>Junteng Liu</strong>, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He
 
 - **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023)
-  <br>Jinghan Zhang, Shiqi Chen, \*\*Junteng Liu\*\*, Junxian He
+  <br>Jinghan Zhang, Shiqi Chen, <strong>Junteng Liu</strong>, Junxian He
 
 ## Awards
 
